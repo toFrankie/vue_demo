@@ -1,0 +1,14 @@
+{
+  "name": "vue_demo",
+  "version": "1.0.0",
+  "description": "Hello Vue.js, 好久不见!",
+  "main": "src/index.js",
+  "repository": "git@github.com:toFrankie/vue_demo.git",
+  "author": "Frankie <1426203851@qq.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@vue/cli": "^4.5.4",
+    "vue": "^2.6.12"
+  }
+}
